@@ -1,2 +1,1 @@
-# Infiltration
-Just a normal human game. Humans like games, right?
+Console.WriteLine("Github is for entitled weaklings whose moms suck");
