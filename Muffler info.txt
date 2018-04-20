@@ -1,0 +1,8 @@
+0,0 to 100,0 is idle Right
+walking Right is 0,0 then 150 ,0 to 0, 50
+shooting right is 50, 50 to 50, 150
+
+left idle 150, 100 to 50, 100
+walking left 150, 100, 0, 100 and 150, 150\
+shooting left starts at 100, 150 and goes backwards to 0, 150
+
